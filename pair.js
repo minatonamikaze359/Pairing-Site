@@ -58,28 +58,28 @@ router.get('/', async (req, res) => {
         
 ╔════════════════════◇
 ║『 SESSION CONNECTED』
-║ ✨ Arslan-MD 🔷
-║ ✨ ArslanMD OFFICIAL🔷
+║ ✨ Satoru Mini 🔷
+║ ✨ Satoru Mini OFFICIAL🔷
 ╚════════════════════╝
 
 
 ---
 
 ╔════════════════════◇
-║『 YOU'VE CHOSEN Arslan-MD 』
+║『 YOU'VE CHOSEN Satoru Mini 』
 ║ -Set the session ID in Heroku:
 ║ - SESSION_ID: 
 ╚════════════════════╝
 ╔════════════════════◇
 ║ 『••• _V𝗶𝘀𝗶𝘁 𝗙𝗼𝗿_H𝗲𝗹𝗽 •••』
-║❍ 𝐎𝐰𝐧𝐞𝐫: 923237045919
-║❍ 𝐑𝐞𝐩𝐨: https://github.com/Arslan-MD/Arslan_MD
+║❍ 𝐎𝐰𝐧𝐞𝐫: 8801719741293
+║❍ 𝐑𝐞𝐩𝐨: https://github.com/minatonamikaze359/Satoru-Mini
 ║❍ 𝐖𝐚𝐆𝗿𝐨𝐮𝐩: https://chat.whatsapp.com/KRyARlvcUjoIv1CPSSyQA5?mode=wwt
-║❍ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: https://whatsapp.com/channel/0029VarfjW04tRrmwfb8x306
+║❍ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: https://whatsapp.com/channel/0029Vas0V4JBvvsYI6n9kK1d
 ║
 ║ ☬ ☬ ☬ ☬
 ╚═════════════════════╝
-𒂀 Enjoy Arslan-MD
+𒂀 Enjoy Satoru Mini
 
 
 ---
